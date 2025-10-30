@@ -125,7 +125,7 @@ seaborn>=0.12.0
 ## 🏗️ Project Structure
 
 ```
-fitai-nexus/
+PFT/
 │
 ├── app.py                 # Main application file
 ├── requirements.txt       # Python dependencies
@@ -193,16 +193,6 @@ elif user_level == "Advanced":
 - **Predictive Analytics** - Future performance forecasting
 - **Behavioral Analysis** - Pattern recognition
 
-## 📊 Demo & Screenshots
-
-### Main Dashboard
-![Dashboard](https://via.placeholder.com/600x300/0E1117/FFFFFF?text=Interactive+Dashboard)
-
-### Analytics View
-![Analytics](https://via.placeholder.com/600x300/0E1117/FFFFFF?text=Advanced+Analytics)
-
-### Mobile Responsive
-![Mobile](https://via.placeholder.com/300x500/0E1117/FFFFFF?text=Mobile+View)
 
 ## 🚀 Future Roadmap
 
