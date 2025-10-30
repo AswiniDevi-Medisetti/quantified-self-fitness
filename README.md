@@ -3,38 +3,12 @@ intern-project
 Here's a comprehensive GitHub README with different repository name options:
 
 ```markdown
-# 💪 FitAI Nexus - Intelligent Fitness Analytics Platform
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-## 🚀 Alternative Repository Names
-
-### 🤖 AI-Focused Names
-- **FitMind Analytics** - *AI-Powered Fitness Intelligence*
-- **NeuroFit Pro** - *Brain-Inspired Training Optimization*
-- **TrainAI** - *Artificial Intelligence Fitness Coach*
-- **SmartGains** - *Intelligent Workout & Nutrition Platform*
-
-### 🎯 Performance-Oriented Names
-- **PeakPerformance AI** - *Data-Driven Athletic Excellence*
-- **EliteMetrics** - *Professional Fitness Analytics*
-- **GymSynapse** - *Connecting Data to Results*
-- **PerformanceLabs** - *Scientific Training Analysis*
-
-### 💡 Innovative Names
-- **Quantified-Self Fitness** - *Complete Personal Analytics*
-- **BioHacker Pro** - *Optimize Your Biology*
-- **FitGenius** - *Smart Fitness Companion*
-- **TrainSmart AI** - *Intelligent Workout Planning*
 
 ## 📊 Project Overview
 
 **FitAI Nexus** is a comprehensive fitness intelligence platform that combines advanced analytics, machine learning, and beautiful visualizations to transform your fitness journey. Track, analyze, and optimize every aspect of your health and performance.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/0E1117/FFFFFF?text=FitAI+Nexus+Dashboard)
+![Dashboard Preview](https://via.placeholder.com/800x400/0E1117/FFFFFF?text=PFT+Dashboard)
 
 ## ✨ Features
 
